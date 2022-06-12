@@ -1,7 +1,6 @@
 [
   {
     "id": "TOGGLE-LAPUTE",
-    "ips": [],
-    "access": false
+    "access": true
   }
 ]
